@@ -1,6 +1,9 @@
 # Ableton project backup folders
 **/Backup/
 
-# Weird temp projects
+# Weird temp things
 **/Temp\ Project/
 **/Temp-[1-9]\ Project/
+
+# These are just for Ableton to find the .wav files faster and are automatically generated
+**/*.wav.asd

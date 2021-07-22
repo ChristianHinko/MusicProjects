@@ -3,7 +3,7 @@
 
 # Weird temp things
 **/Temp\ Project/
-**/Temp-[1-9]\ Project/
+**/Temp-[0-9]\ Project/
 
-# These are just for Ableton to find the .wav files faster and are automatically generated
-**/*.wav.asd
+# These are just for Ableton to find files faster and are automatically generated
+**/*.asd
